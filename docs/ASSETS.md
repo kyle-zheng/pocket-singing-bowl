@@ -14,6 +14,10 @@ Dependency sources and exact resolved versions are recorded in `dependencies.loc
 
 `moon-bowl-240.png` and `moon_background.c` are generated 240×320 RGB565 derivatives used on the device. The embedded image occupies 153,600 bytes. No third-party photograph is used in this artwork.
 
+## Device illustration
+
+`assets/images/pocket-singing-bowl-device-preview.png` is a finished AI-generated README illustration combining the appearance of FoloToy AI Passport with the Pocket Singing Bowl interface. It is based on the [simulator body reference](https://apsimulator.folotoy.cn/assets/ai-passport-shell-reference.png) and a native rendering of the current B/crown screen. The full-device presentation was informed by the [PassportSim example](https://github.com/BlackHole1/passportsim). It is an illustration, not a photograph or a captured hardware session. Created with OpenAI image generation on October 19, 2026.
+
 ## Sound
 
 `assets/music/bowl-{C,D,E,F,G,A,B}.wav` and `moon-bowls.pcm` are original, reproducible modal-synthesis sounds created for this application and provided under the repository's MIT license. No external sound recording is used.

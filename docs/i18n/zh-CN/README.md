@@ -6,6 +6,10 @@
 
 口袋颂钵（Pocket Singing Bowl）是为 [FoloToy AI Passport](https://github.com/FoloToy/ai-passport) 制作的离线颂钵应用，灵感来自尼泊尔喜马拉雅颂钵。七种原创合成音调，搭配简单的按键操作，为日常放松、专注和冥想提供一个随身的小入口。
 
+<p align="center"><img src="../../../assets/images/pocket-singing-bowl-device-preview.png" alt="FoloToy AI Passport 机身内展示口袋颂钵界面，旁边展示满月界面细节" width="900"></p>
+
+*AI 生成的设备示意图，展示口袋颂钵在 FoloToy AI Passport 上的界面，并非实机摄影。*
+
 <p align="center"><img src="../../../assets/images/moon-bowl-source.png" alt="AI 生成的满月与金色颂钵示意图" width="300"></p>
 
 [下载 v0.1.8](https://github.com/kyle-zheng/pocket-singing-bowl/releases/tag/v0.1.8) · [在线试玩](https://apsimulator.folotoy.cn/?play=1384) · [玩法社区](https://ai-passport.folotoy.cn/plays/1384/) · [使用方法](USER_GUIDE.md) · [从源码编译](BUILDING.md)
@@ -23,7 +27,7 @@
 
 ## 开始聆听
 
-1. 将固件安装到 AI Passport，无需配网。可从上方玩法社区进入安装流程；手动刷写请查看[安装指南](INSTALL.md)。
+1. 将固件安装到 FoloToy AI Passport，无需配网。可从上方玩法社区进入安装流程；手动刷写请查看[安装指南](INSTALL.md)。
 2. 短按确认键播放一声，短按上／下键切换音调与主题。
 3. 长按确认键开始自动颂钵，短按暂停或继续，再长按返回手动待机。
 4. 双击确认键进入设置。短按上／下键选择或调整，短按确认键进入编辑或保存；长按确认键取消编辑，或从设置列表返回。编辑间隔和音量时，可长按上／下键快速调节。
@@ -62,4 +66,4 @@ v0.1.8 已在开发过程中完成编译、校验和设备刷写。它将首次�
 
 ## 致谢
 
-基于 FoloToy 开源 AI Passport 固件和板级支持代码开发，保留 [LICENSE](../../../LICENSE) 中的原始 MIT 声明。字体许可与生成图片来源见[资源与致谢](ASSETS.md)。本项目为独立社区应用。
+基于 FoloToy AI Passport 开源固件和板级支持代码开发，保留 [LICENSE](../../../LICENSE) 中的原始 MIT 声明。字体许可与生成图片来源见[资源与致谢](ASSETS.md)。本项目为独立社区应用。

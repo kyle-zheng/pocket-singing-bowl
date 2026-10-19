@@ -5,6 +5,7 @@
 本仓库发布适用于 FoloToy AI Passport 的口袋颂钵（Pocket Singing Bowl）v0.1.8。
 
 - 默认文档路径、仓库简介、提交信息和版本标题使用英文。简体中文翻译位于 `docs/i18n/zh-CN/`，两种语言互设入口，并保持事实一致。现有设备界面为简体中文。
+- 面向读者的设备名称统一使用 **FoloToy AI Passport** 全称；现有代码标识与构建文件名保持兼容。
 - 硬件接口放在 `components/bsp/`，应用行为放在 `main/moon_*`。
 - 保持 LVGL 锁、非阻塞按键回调，以及任务关闭前的协调机制。
 - 修改相关逻辑后运行 `python3 tools/run_host_tests.py`；固件使用 ESP-IDF 5.5.3 构建，再用 `tools/verify_firmware.py` 校验合并镜像。

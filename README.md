@@ -6,6 +6,10 @@ English | [简体中文](docs/i18n/zh-CN/README.md)
 
 An offline singing-bowl experience for [FoloToy AI Passport](https://github.com/FoloToy/ai-passport), inspired by Himalayan singing bowls from Nepal. It brings seven original synthesized tones into a simple, button-operated companion for everyday relaxation, focus, and meditation.
 
+<p align="center"><img src="assets/images/pocket-singing-bowl-device-preview.png" alt="Pocket Singing Bowl shown on FoloToy AI Passport, with a closer view of its full-moon interface" width="900"></p>
+
+*AI-generated device illustration showing the app on FoloToy AI Passport; not an on-device photograph.*
+
 <p align="center"><img src="assets/images/moon-bowl-source.png" alt="AI-generated artwork of a golden singing bowl beneath a full moon" width="300"></p>
 
 [Download v0.1.8](https://github.com/kyle-zheng/pocket-singing-bowl/releases/tag/v0.1.8) · [Try it in your browser](https://apsimulator.folotoy.cn/?play=1384) · [Community project](https://ai-passport.folotoy.cn/plays/1384/) · [User guide](docs/USER_GUIDE.md) · [Build from source](docs/BUILDING.md)
@@ -23,7 +27,7 @@ The current firmware interface is in Simplified Chinese. Project documentation d
 
 ## Start listening
 
-1. Install the firmware on AI Passport. No network setup is needed. For a ready-made installation, open the community project linked above; see the [installation guide](docs/INSTALL.md) for manual flashing.
+1. Install the firmware on FoloToy AI Passport. No network setup is needed. For a ready-made installation, open the community project linked above; see the [installation guide](docs/INSTALL.md) for manual flashing.
 2. Press **OK** once to play. Press **UP** or **DOWN** to change the note and theme.
 3. Hold **OK** to start automatic playback. Press **OK** to pause or resume; hold it again to return to manual mode.
 4. Double-press **OK** to open settings. Use **UP/DOWN** to select or adjust, and press **OK** to edit or save. Hold **OK** to cancel an edit or return from the settings list. When editing interval or volume, hold **UP/DOWN** for faster changes.
@@ -62,4 +66,4 @@ Version 0.1.8 has been built, checked, and flashed to the device during developm
 
 ## Credits
 
-Built on FoloToy's open AI Passport firmware and board-support code. The original MIT notice is preserved in [LICENSE](LICENSE). See [asset credits](docs/ASSETS.md) for the font license and generated artwork. This is an independent community application.
+Built on the open FoloToy AI Passport firmware and board-support code. The original MIT notice is preserved in [LICENSE](LICENSE). See [asset credits](docs/ASSETS.md) for the font license and generated artwork. This is an independent community application.

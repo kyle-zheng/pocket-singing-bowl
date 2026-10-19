@@ -6,7 +6,7 @@
 
 浏览器引导安装可进入[玩法社区](https://ai-passport.folotoy.cn/plays/1384/)。
 
-手动安装时，请使用 USB 数据线连接已开机的设备，核对 `SHA256SUMS.txt` 中的校验值，并使用乐鑫 esptool。将 `YOUR_SERIAL_PORT` 替换为你的 AI Passport 对应串口：
+手动安装时，请使用 USB 数据线连接已开机的设备，核对 `SHA256SUMS.txt` 中的校验值，并使用乐鑫 esptool。将 `YOUR_SERIAL_PORT` 替换为你的 FoloToy AI Passport 对应串口：
 
 ```sh
 python3 -m esptool --chip esp32c3 --port YOUR_SERIAL_PORT write_flash 0x0 pocket-singing-bowl-v0.1.8-full.bin

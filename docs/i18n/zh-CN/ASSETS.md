@@ -14,6 +14,10 @@
 
 `moon-bowl-240.png` 和 `moon_background.c` 是设备使用的 240×320 RGB565 衍生资源，嵌入图片占用 153,600 字节。该作品未使用第三方摄影照片。
 
+## 设备示意图
+
+`assets/images/pocket-singing-bowl-device-preview.png` 为完整的 AI 生成首页示意图，将 FoloToy AI Passport 的机身外观与口袋颂钵界面结合。参考了[模拟器机身素材](https://apsimulator.folotoy.cn/assets/ai-passport-shell-reference.png)和当前 B 调顶轮页面的原生渲染；完整机身的展示方式参考 [PassportSim 项目](https://github.com/BlackHole1/passportsim)。该图是示意图，不是照片或实机运行截图，于 2026 年 10 月 19 日使用 OpenAI 图像生成工具创作。
+
 ## 声音
 
 `assets/music/bowl-{C,D,E,F,G,A,B}.wav` 与 `moon-bowls.pcm` 是为本应用创作、可复现的原创模态合成声音，按仓库 MIT 许可证提供，未使用外部录音。
