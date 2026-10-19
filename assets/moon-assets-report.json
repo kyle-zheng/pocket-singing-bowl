@@ -1,0 +1,62 @@
+{
+  "glyph_count_per_size": 195,
+  "image_bytes": 153600,
+  "audio": [
+    {
+      "note": "C",
+      "fundamental_hz": 261.6255653,
+      "peak": 15073,
+      "samples": 128000,
+      "fundamental_weight": 0.62,
+      "attack_ms": 24
+    },
+    {
+      "note": "D",
+      "fundamental_hz": 293.66476792,
+      "peak": 15728,
+      "samples": 128000,
+      "fundamental_weight": 0.67,
+      "attack_ms": 24
+    },
+    {
+      "note": "E",
+      "fundamental_hz": 329.62755692,
+      "peak": 16384,
+      "samples": 128000,
+      "fundamental_weight": 0.72,
+      "attack_ms": 24
+    },
+    {
+      "note": "F",
+      "fundamental_hz": 349.22823144,
+      "peak": 17039,
+      "samples": 128000,
+      "fundamental_weight": 0.77,
+      "attack_ms": 24
+    },
+    {
+      "note": "G",
+      "fundamental_hz": 391.99543598,
+      "peak": 17694,
+      "samples": 128000,
+      "fundamental_weight": 0.82,
+      "attack_ms": 24
+    },
+    {
+      "note": "A",
+      "fundamental_hz": 440,
+      "peak": 18022,
+      "samples": 128000,
+      "fundamental_weight": 0.87,
+      "attack_ms": 24
+    },
+    {
+      "note": "B",
+      "fundamental_hz": 493.88330126,
+      "peak": 18350,
+      "samples": 128000,
+      "fundamental_weight": 0.92,
+      "attack_ms": 24
+    }
+  ]
+}
