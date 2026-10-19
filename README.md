@@ -2,7 +2,7 @@
 
 **A little moon, a golden bowl, and a quiet moment in your pocket.**
 
-An offline singing-bowl experience for [FoloToy AI Passport](https://github.com/FoloToy/ai-passport), inspired by a sound-therapy experience in Indonesia. It brings seven original synthesized tones into a simple, button-operated companion for everyday relaxation, focus, and meditation.
+An offline singing-bowl experience for [FoloToy AI Passport](https://github.com/FoloToy/ai-passport), inspired by Himalayan singing bowls from Nepal. It brings seven original synthesized tones into a simple, button-operated companion for everyday relaxation, focus, and meditation.
 
 <p align="center"><img src="assets/images/moon-bowl-source.png" alt="AI-generated artwork of a golden singing bowl beneath a full moon" width="300"></p>
 

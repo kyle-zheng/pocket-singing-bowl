@@ -8,5 +8,6 @@ This repository publishes Electronic Singing Bowl v0.1.8 for FoloToy AI Passport
 - Run `python3 tools/run_host_tests.py` for relevant logic changes. Use ESP-IDF 5.5.3 for firmware builds and verify the merged image with `tools/verify_firmware.py`.
 - Report build, host checks, and device testing separately; do not describe compilation as device validation.
 - Do not commit credentials, personal device identifiers, local logs, build caches, or generated firmware images. Put downloadable firmware in Releases.
+- Before every GitHub push, upload, or release, review the outgoing files and metadata for sensitive personal information. Include commit identities, archive contents, image metadata, and readable firmware strings when relevant; keep credentials outside the repository and use a GitHub noreply commit address. Verify the public result after publishing.
 - Preserve the upstream MIT notice and the bundled font license.
 - Do not flash a device, publish to an external account, or overwrite remote state without the user's authorization.
