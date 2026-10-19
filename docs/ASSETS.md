@@ -10,13 +10,13 @@ Dependency sources and exact resolved versions are recorded in `dependencies.loc
 
 ## Artwork
 
-`assets/images/moon-bowl-source.png` was generated with OpenAI image generation on October 17, 2026, from the creator's approved moon-and-golden-bowl concept. The circular bowl mark is illustrative and has not been verified as an official logo. No brand endorsement is claimed.
+`assets/images/moon-bowl-source.png` was generated with OpenAI image generation on October 17, 2026, from my moon-and-golden-bowl concept. It uses the circular, four-quadrant full-moon bowl emblem from my original design; it does not imply a brand affiliation.
 
 `moon-bowl-240.png` and `moon_background.c` are generated 240×320 RGB565 derivatives used on the device. The embedded image occupies 153,600 bytes. No third-party photograph is used in this artwork.
 
 ## Device illustration
 
-`assets/images/pocket-singing-bowl-device-preview.png` is a finished AI-generated README illustration combining the appearance of FoloToy AI Passport with the Pocket Singing Bowl interface. It is based on the [simulator body reference](https://apsimulator.folotoy.cn/assets/ai-passport-shell-reference.png) and a native rendering of the current B/crown screen. The full-device presentation was informed by the [PassportSim example](https://github.com/BlackHole1/passportsim). It is an illustration, not a photograph or a captured hardware session. Created with OpenAI image generation on October 19, 2026.
+`assets/images/pocket-singing-bowl-device-preview.png` is a finished AI-generated README illustration combining the appearance of FoloToy AI Passport with the Pocket Singing Bowl interface. It is based on the [simulator body reference](https://apsimulator.folotoy.cn/assets/ai-passport-shell-reference.png) and a native rendering of the current B/crown screen. The full-device presentation was informed by the [PassportSim example](https://github.com/BlackHole1/passportsim). It is an illustration, not a photograph or a captured hardware session. Created with OpenAI image generation on October 19, 2026. The two bowl emblems were subsequently corrected to match the geometric four-quadrant mark in the original artwork, replacing an unintended floral motif.
 
 ## Sound
 

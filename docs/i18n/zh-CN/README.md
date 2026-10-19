@@ -1,10 +1,18 @@
 [English](../../../README.md) | 简体中文
 
-# 口袋颂钵
+<h1 align="center">口袋颂钵</h1>
 
-**一轮满月，一只金色的钵，把片刻宁静放进口袋。**
+<p align="center">一轮满月，一只金色的钵，把片刻宁静放进口袋。</p>
 
-口袋颂钵（Pocket Singing Bowl）是为 [FoloToy AI Passport](https://github.com/FoloToy/ai-passport) 制作的离线颂钵应用，灵感来自尼泊尔喜马拉雅颂钵。七种原创合成音调，搭配简单的按键操作，为日常放松、专注和冥想提供一个随身的小入口。
+<p align="center">
+  <a href="https://github.com/kyle-zheng/pocket-singing-bowl/releases/tag/v0.1.8"><img src="../../../assets/badges/version.svg" alt="Version: v0.1.8"></a>
+  <a href="https://github.com/kyle-zheng/pocket-singing-bowl/blob/main/docs/USER_GUIDE.md"><img src="../../../assets/badges/platform.svg" alt="Platform: FoloToy AI Passport"></a>
+  <a href="https://github.com/kyle-zheng/pocket-singing-bowl/blob/main/docs/USER_GUIDE.md"><img src="../../../assets/badges/sound.svg" alt="Sound: 7 tones"></a>
+  <a href="https://github.com/kyle-zheng/pocket-singing-bowl/blob/main/docs/USER_GUIDE.md"><img src="../../../assets/badges/mode.svg" alt="Mode: Offline"></a>
+  <a href="https://github.com/kyle-zheng/pocket-singing-bowl/blob/main/LICENSE"><img src="../../../assets/badges/license.svg" alt="License: MIT"></a>
+</p>
+
+口袋颂钵（Pocket Singing Bowl）是为 [FoloToy AI Passport](https://github.com/FoloToy/ai-passport) 制作的离线颂钵应用，灵感来自尼泊尔喜马拉雅颂钵。我将七种原创合成音调对应七脉轮，做成七个可切换的聆听主题。搭配简单的按键操作，为日常放松、专注和冥想提供一个随身的小入口。
 
 <p align="center"><img src="../../../assets/images/pocket-singing-bowl-device-preview.png" alt="FoloToy AI Passport 机身内展示口袋颂钵界面，旁边展示满月界面细节" width="900"></p>
 
@@ -23,7 +31,21 @@
 - 可选开启闲置十分钟后自动休眠，并以屏幕渐暗过渡；默认关闭。
 - 全程离线，设置会保存。
 
-当前设备界面为简体中文；项目文档默认英文，并提供简体中文入口。上图为 AI 生成的示意图，钵面圆形图案不代表已核实的官方标志或品牌背书。声音为原创合成音色，并非实体颂钵录音；主题和脉轮名称用于组织聆听体验，不宣称医学疗效。
+当前设备界面为简体中文；项目文档默认英文，并提供简体中文入口。上图为 AI 生成的示意图，钵面保留最初设计采用的满月钵圆形图案。声音为原创合成音色，并非实体颂钵录音；主题和脉轮名称用于组织聆听体验，不宣称医学疗效。
+
+## 七种音调与七脉轮
+
+我在口袋颂钵中采用以下对应关系，每个音调都有一个聆听主题：
+
+| 音调 | 对应脉轮 | 聆听主题 |
+| --- | --- | --- |
+| C 调 | 海底轮 | 安定 · 放松 |
+| D 调 | 脐轮 | 感受 · 流动 |
+| E 调 | 太阳轮 | 自信 · 行动 |
+| F 调 | 心轮 | 接纳 · 关怀 |
+| G 调 | 喉轮 | 表达 · 倾听 |
+| A 调 | 眉心轮 | 专注 · 觉察 |
+| B 调 | 顶轮 | 静心 · 冥想 |
 
 ## 开始聆听
 
@@ -62,7 +84,7 @@
 
 ## 开发状态
 
-v0.1.8 已在开发过程中完成编译、校验和设备刷写。它将首次使用的默认音调改为 B 调顶轮、默认音量改为 50%，并保留 v0.1.7 的音频优化。创作者反馈，此前的调音已消除其试听中的爆鸣杂音；这属于实际试听反馈，不等同于完整的声学或续航测量。
+我已经在 FoloToy AI Passport 上刷入并试听了 v0.1.8。这版默认使用 B 调顶轮、50% 音量，并保留此前的音色与混音优化；调音后，我在试听中已听不到之前的爆鸣杂音。
 
 ## 致谢
 

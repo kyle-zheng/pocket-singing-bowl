@@ -10,13 +10,13 @@
 
 ## 图片
 
-`assets/images/moon-bowl-source.png` 根据创作者确认的满月与金色颂钵概念，于 2026 年 10 月 17 日使用 OpenAI 图像生成工具创作。钵面圆形图案为示意，未核实为官方标志，也不代表品牌背书。
+`assets/images/moon-bowl-source.png` 根据我的满月与金色颂钵设计，于 2026 年 10 月 17 日使用 OpenAI 图像生成工具创作。钵面沿用最初设计中的四分对称满月钵圆形图案，不代表品牌关联。
 
 `moon-bowl-240.png` 和 `moon_background.c` 是设备使用的 240×320 RGB565 衍生资源，嵌入图片占用 153,600 字节。该作品未使用第三方摄影照片。
 
 ## 设备示意图
 
-`assets/images/pocket-singing-bowl-device-preview.png` 为完整的 AI 生成首页示意图，将 FoloToy AI Passport 的机身外观与口袋颂钵界面结合。参考了[模拟器机身素材](https://apsimulator.folotoy.cn/assets/ai-passport-shell-reference.png)和当前 B 调顶轮页面的原生渲染；完整机身的展示方式参考 [PassportSim 项目](https://github.com/BlackHole1/passportsim)。该图是示意图，不是照片或实机运行截图，于 2026 年 10 月 19 日使用 OpenAI 图像生成工具创作。
+`assets/images/pocket-singing-bowl-device-preview.png` 为完整的 AI 生成首页示意图，将 FoloToy AI Passport 的机身外观与口袋颂钵界面结合。参考了[模拟器机身素材](https://apsimulator.folotoy.cn/assets/ai-passport-shell-reference.png)和当前 B 调顶轮页面的原生渲染；完整机身的展示方式参考 [PassportSim 项目](https://github.com/BlackHole1/passportsim)。该图是示意图，不是照片或实机运行截图，于 2026 年 10 月 19 日使用 OpenAI 图像生成工具创作，后将两只钵上误生成的花纹修正为原始设计中的四分对称圆形图案。
 
 ## 声音
 

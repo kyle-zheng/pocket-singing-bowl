@@ -1,10 +1,18 @@
 English | [简体中文](docs/i18n/zh-CN/README.md)
 
-# Pocket Singing Bowl
+<h1 align="center">Pocket Singing Bowl</h1>
 
-**A little moon, a golden bowl, and a quiet moment in your pocket.**
+<p align="center">A little moon. A golden bowl. A quiet moment in your pocket.</p>
 
-An offline singing-bowl experience for [FoloToy AI Passport](https://github.com/FoloToy/ai-passport), inspired by Himalayan singing bowls from Nepal. It brings seven original synthesized tones into a simple, button-operated companion for everyday relaxation, focus, and meditation.
+<p align="center">
+  <a href="https://github.com/kyle-zheng/pocket-singing-bowl/releases/tag/v0.1.8"><img src="assets/badges/version.svg" alt="Version: v0.1.8"></a>
+  <a href="https://github.com/kyle-zheng/pocket-singing-bowl/blob/main/docs/USER_GUIDE.md"><img src="assets/badges/platform.svg" alt="Platform: FoloToy AI Passport"></a>
+  <a href="https://github.com/kyle-zheng/pocket-singing-bowl/blob/main/docs/USER_GUIDE.md"><img src="assets/badges/sound.svg" alt="Sound: 7 tones"></a>
+  <a href="https://github.com/kyle-zheng/pocket-singing-bowl/blob/main/docs/USER_GUIDE.md"><img src="assets/badges/mode.svg" alt="Mode: Offline"></a>
+  <a href="https://github.com/kyle-zheng/pocket-singing-bowl/blob/main/LICENSE"><img src="assets/badges/license.svg" alt="License: MIT"></a>
+</p>
+
+An offline singing-bowl experience for [FoloToy AI Passport](https://github.com/FoloToy/ai-passport), inspired by Himalayan singing bowls from Nepal. I paired seven original synthesized tones with the seven chakras, creating selectable listening themes for everyday relaxation, focus, and meditation. Simple button controls make it easy to start listening.
 
 <p align="center"><img src="assets/images/pocket-singing-bowl-device-preview.png" alt="Pocket Singing Bowl shown on FoloToy AI Passport, with a closer view of its full-moon interface" width="900"></p>
 
@@ -23,7 +31,21 @@ An offline singing-bowl experience for [FoloToy AI Passport](https://github.com/
 - Optional sleep after ten idle minutes, with a gentle screen fade; disabled by default.
 - Works entirely offline and remembers your settings.
 
-The current firmware interface is in Simplified Chinese. Project documentation defaults to English, with a Simplified Chinese translation available. The artwork shown above is AI-generated; its circular bowl mark is illustrative, not a verified official logo or endorsement. The sounds are original synthesized timbres rather than recordings of physical bowls. Theme and chakra names describe the design; they do not claim medical effects.
+The current firmware interface is in Simplified Chinese. Project documentation defaults to English, with a Simplified Chinese translation available. The artwork shown above is AI-generated; the bowls retain the circular full-moon emblem used in my original design. The sounds are original synthesized timbres rather than recordings of physical bowls. Theme and chakra names describe the design; they do not claim medical effects.
+
+## Seven notes, seven chakras
+
+For Pocket Singing Bowl, I use the following note-to-chakra mapping, with a listening theme for each note:
+
+| Note | Chakra | Listening theme |
+| --- | --- | --- |
+| C | Root | Grounding & Relaxation |
+| D | Sacral | Feeling & Flow |
+| E | Solar plexus | Confidence & Action |
+| F | Heart | Acceptance & Care |
+| G | Throat | Expression & Listening |
+| A | Third eye | Focus & Awareness |
+| B | Crown | Stillness & Meditation |
 
 ## Start listening
 
@@ -62,7 +84,7 @@ Saved preferences take precedence on an ordinary restart. A full merged-image re
 
 ## Development status
 
-Version 0.1.8 has been built, checked, and flashed to the device during development. It changes the defaults to B/crown and 50% volume while retaining the v0.1.7 audio tuning. The creator reported that the previous tuning eliminated the crackling in their listening test. This is practical listening feedback, not an exhaustive acoustic or battery-life measurement.
+I have flashed v0.1.8 to FoloToy AI Passport and tried it myself. It starts with B/crown at 50% volume and keeps the earlier sound and mixing improvements. After the tuning, I no longer hear the crackling from my earlier listening sessions.
 
 ## Credits
 

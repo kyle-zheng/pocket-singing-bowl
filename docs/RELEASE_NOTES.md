@@ -23,6 +23,6 @@ The packaged full image is the previously built and flashed v0.1.8 image. Its SH
 345e973c2044f77510625c36e9491ebc21063dfb02b9faea77e0feceb7958d11
 ```
 
-The original development validation passed the firmware build, host checks, merged-image verification, and flash verification. Startup logs confirmed B/crown and 50% volume. The creator reported that the preceding v0.1.7 tuning eliminated the crackling in their listening test. Exhaustive acoustic testing and whole-device sleep-current measurements remain unperformed.
+The original development validation passed the firmware build, host checks, merged-image verification, and flash verification. Startup logs confirmed B/crown and 50% volume. After the v0.1.7 tuning, I no longer heard the earlier crackling during my listening tests. I have not carried out exhaustive acoustic or whole-device sleep-current measurements.
 
 This GitHub publication organizes source files, bilingual documentation, and downloads; it does not introduce a new firmware version or modify the v0.1.8 runtime.
