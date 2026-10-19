@@ -1,6 +1,8 @@
+English | [简体中文](i18n/zh-CN/USER_GUIDE.md)
+
 # User Guide
 
-Electronic Singing Bowl works offline. The current on-device labels are in Simplified Chinese; the controls below use English descriptions.
+Pocket Singing Bowl works offline. The current on-device labels are in Simplified Chinese; the controls below use English descriptions.
 
 ## Main controls
 

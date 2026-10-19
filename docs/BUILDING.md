@@ -1,3 +1,5 @@
+English | [简体中文](i18n/zh-CN/BUILDING.md)
+
 # Building and Testing
 
 ## Requirements
@@ -23,6 +25,8 @@ The target is already set to ESP32-C3 in `sdkconfig.defaults`. The CMake project
 ## Install
 
 The easiest installation route is the [community project](https://ai-passport.folotoy.cn/plays/1384/). A browser simulator is also [available](https://apsimulator.folotoy.cn/?play=1384).
+
+For the published full image, follow the [installation guide](INSTALL.md).
 
 For a local development build:
 

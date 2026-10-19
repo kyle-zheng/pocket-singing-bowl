@@ -1,3 +1,5 @@
+English | [简体中文](i18n/zh-CN/RELEASE_NOTES.md)
+
 # Release Notes
 
 ## v0.1.8
@@ -23,4 +25,4 @@ The packaged full image is the previously built and flashed v0.1.8 image. Its SH
 
 The original development validation passed the firmware build, host checks, merged-image verification, and flash verification. Startup logs confirmed B/crown and 50% volume. The creator reported that the preceding v0.1.7 tuning eliminated the crackling in their listening test. Exhaustive acoustic testing and whole-device sleep-current measurements remain unperformed.
 
-This GitHub publication organizes source files, English documentation, and downloads; it does not introduce a new firmware version or modify the v0.1.8 runtime.
+This GitHub publication organizes source files, bilingual documentation, and downloads; it does not introduce a new firmware version or modify the v0.1.8 runtime.

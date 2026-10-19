@@ -1,3 +1,5 @@
+English | [简体中文](i18n/zh-CN/ASSETS.md)
+
 # Assets and Attribution
 
 ## Upstream platform

@@ -1,3 +1,5 @@
+English | [简体中文](i18n/zh-CN/ARCHITECTURE.md)
+
 # Architecture
 
 ## Application and board support
@@ -28,7 +30,7 @@ components/bsp/   Display, audio, button, battery, and shared-bus support
 assets/           Artwork, generated fonts, PCM bank, and source WAV files
 tests/            Host checks, stubs, and optional native UI renderer
 tools/            Asset generation, host checks, and firmware verification
-docs/             English user, build, architecture, asset, and release notes
+docs/             English documentation; Simplified Chinese in docs/i18n/zh-CN/
 ```
 
 The publication package preserves the build inputs from the verified v0.1.8 development tree. Public-facing documentation and repository automation are organized for this standalone application; development caches, device logs, credentials, and unrelated project archives are excluded.

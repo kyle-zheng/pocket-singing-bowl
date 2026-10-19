@@ -1,4 +1,6 @@
-# Electronic Singing Bowl
+English | [简体中文](docs/i18n/zh-CN/README.md)
+
+# Pocket Singing Bowl
 
 **A little moon, a golden bowl, and a quiet moment in your pocket.**
 
@@ -6,7 +8,7 @@ An offline singing-bowl experience for [FoloToy AI Passport](https://github.com/
 
 <p align="center"><img src="assets/images/moon-bowl-source.png" alt="AI-generated artwork of a golden singing bowl beneath a full moon" width="300"></p>
 
-[Download v0.1.8](https://github.com/kyle-zheng/ai-passport-singing-bowl/releases/tag/v0.1.8) · [Try it in your browser](https://apsimulator.folotoy.cn/?play=1384) · [Community project](https://ai-passport.folotoy.cn/plays/1384/) · [User guide](docs/USER_GUIDE.md) · [Build from source](docs/BUILDING.md)
+[Download v0.1.8](https://github.com/kyle-zheng/pocket-singing-bowl/releases/tag/v0.1.8) · [Try it in your browser](https://apsimulator.folotoy.cn/?play=1384) · [Community project](https://ai-passport.folotoy.cn/plays/1384/) · [User guide](docs/USER_GUIDE.md) · [Build from source](docs/BUILDING.md)
 
 ## What it does
 
@@ -17,11 +19,11 @@ An offline singing-bowl experience for [FoloToy AI Passport](https://github.com/
 - Optional sleep after ten idle minutes, with a gentle screen fade; disabled by default.
 - Works entirely offline and remembers your settings.
 
-The current firmware interface is in Simplified Chinese. The public project documentation is in English. The artwork shown above is AI-generated; its circular bowl mark is illustrative, not a verified official logo or endorsement. The sounds are original synthesized timbres rather than recordings of physical bowls. Theme and chakra names describe the design; they do not claim medical effects.
+The current firmware interface is in Simplified Chinese. Project documentation defaults to English, with a Simplified Chinese translation available. The artwork shown above is AI-generated; its circular bowl mark is illustrative, not a verified official logo or endorsement. The sounds are original synthesized timbres rather than recordings of physical bowls. Theme and chakra names describe the design; they do not claim medical effects.
 
 ## Start listening
 
-1. Install the firmware on AI Passport. No network setup is needed. For a ready-made installation, open the community project linked above; see the release installation guide for manual flashing.
+1. Install the firmware on AI Passport. No network setup is needed. For a ready-made installation, open the community project linked above; see the [installation guide](docs/INSTALL.md) for manual flashing.
 2. Press **OK** once to play. Press **UP** or **DOWN** to change the note and theme.
 3. Hold **OK** to start automatic playback. Press **OK** to pause or resume; hold it again to return to manual mode.
 4. Double-press **OK** to open settings. Use **UP/DOWN** to select or adjust, and press **OK** to edit or save. Hold **OK** to cancel an edit or return from the settings list. When editing interval or volume, hold **UP/DOWN** for faster changes.
@@ -47,6 +49,7 @@ Saved preferences take precedence on an ordinary restart. A full merged-image re
 | Resource | Contents |
 | --- | --- |
 | [User guide](docs/USER_GUIDE.md) | Controls, themes, settings, and sleep behavior |
+| [Installation guide](docs/INSTALL.md) | Install a complete image and verify its checksum |
 | [Build guide](docs/BUILDING.md) | ESP-IDF setup, firmware build, and host checks |
 | [Architecture](docs/ARCHITECTURE.md) | Controller, audio mixing, and power behavior |
 | [Asset credits](docs/ASSETS.md) | Artwork, synthesized audio, font, and upstream credits |
